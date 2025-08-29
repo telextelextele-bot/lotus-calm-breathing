@@ -1,0 +1,7 @@
+{
+  "name": "Lotus Calm Breathing",
+  "description": "An immersive breathing exercise app that uses standard patterns or your camera for cardiac coherence training, featuring calming visuals and sounds to promote relaxation and mindfulness.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
